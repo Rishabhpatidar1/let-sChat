@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/let'sChat/static/css/main.7ae880a4.css",
+    "main.js": "/let'sChat/static/js/main.c8d8fab7.js",
+    "static/media/remixicon.svg?t=1687271883607": "/let'sChat/static/media/remixicon.636515c9a8963df4380d.svg",
+    "static/media/remixicon.eot?t=1687271883607": "/let'sChat/static/media/remixicon.83e9a22ce7f199999169.eot",
+    "static/media/remixicon.ttf?t=1687271883607": "/let'sChat/static/media/remixicon.0bcb16fc20c3d365da14.ttf",
+    "static/media/remixicon.woff?t=1687271883607": "/let'sChat/static/media/remixicon.3f0f84f17d39491e07ff.woff",
+    "static/media/remixicon.woff2?t=1687271883607": "/let'sChat/static/media/remixicon.85992a032c7668836563.woff2",
+    "index.html": "/let'sChat/index.html",
+    "main.7ae880a4.css.map": "/let'sChat/static/css/main.7ae880a4.css.map",
+    "main.c8d8fab7.js.map": "/let'sChat/static/js/main.c8d8fab7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ae880a4.css",
+    "static/js/main.c8d8fab7.js"
+  ]
+}
